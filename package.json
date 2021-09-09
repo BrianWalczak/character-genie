@@ -1,0 +1,31 @@
+{
+  "name": "character-genie",
+  "version": "2.1.1",
+  "description": "A simple character generator made with pure JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianWalczak/character-genie.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "nodejs",
+    "char",
+    "genie",
+    "charactergenie",
+    "character-genie",
+    "character",
+    "generator",
+    "generate"
+  ],
+	"author": "Brian!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianWalczak/character-genie/issues"
+  },
+  "homepage": "https://github.com/BrianWalczak/character-genie#readme"
+}
